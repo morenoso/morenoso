@@ -12,4 +12,3 @@ My name is Lucas Moreno, I'm a Computer Science student and I'm currently learni
 
 # Social and Contact
 <a href="https://twitter.com/seumore" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="mailto:monorease@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
