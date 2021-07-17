@@ -11,5 +11,5 @@ I'm a Computer Science student and I'm currently learning about mobile developme
 ![](https://img.shields.io/badge/Docker-3776AB?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/VS_Code-3776AB?style=for-the-badge&logo=visualstudio&logoColor=white)
 
-# 🧔🏻 Social and Contact
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seumore)
+# 🔗 Contact
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](monorease@gmail.com)
