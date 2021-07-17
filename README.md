@@ -10,9 +10,9 @@ I'm a Computer Science student and I'm currently learning about mobile developme
 ![](https://img.shields.io/badge/Bash-2BBC8A?style=for-the-badge&logo=gnubash&logoColor=white)
 ![](https://img.shields.io/badge/Docker-3776AB?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/VS_Code-3776AB?style=for-the-badge&logo=visualstudio&logoColor=white)
-### Most Used
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=morenoso&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=FFFFFF)
 
+### Most Used
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=morenoso&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=6495ED)
 
 # 🔗 Contact
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](monorease@gmail.com)
